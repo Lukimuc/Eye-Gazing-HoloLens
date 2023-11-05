@@ -1,0 +1,8 @@
+{
+	"BuildId": "19505902",
+	"Modules": 
+	{
+		"UXToolsExamples": "UnrealEditor-UXToolsExamples.dll",
+		"UXToolsExamplesShaders": "UnrealEditor-UXToolsExamplesShaders.dll"
+	}
+}
