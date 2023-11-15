@@ -42,6 +42,14 @@
 		{
 			"Name": "UXToolsExamples",
 			"Enabled": true
+		},
+		{
+			"Name": "MicroSoftSpatialSound",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"HoloLens",
+				"Win64"
+			]
 		}
 	]
 }
